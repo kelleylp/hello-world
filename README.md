@@ -1,2 +1,3 @@
 # hello-world
-example repository
+example repository.  
+this repository was created to follow the github tutorial.
